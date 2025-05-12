@@ -1,0 +1,11 @@
+model,steps,hidden_size,layers,acc_str,acc_char
+mamba,250,384,6,0.0,0.0
+mamba,500,384,6,0.0,0.83
+mamba,1000,384,6,0.0,1.04
+mamba,2000,384,6,0.0,2.29
+mamba,4000,384,6,0.0,12.5
+T_hard_alibi,250,384,6,0.0,1.67
+T_hard_alibi,500,384,6,0.0,3.96
+T_hard_alibi,1000,384,6,0.0,10.42
+T_hard_alibi,2000,384,6,0.0,73.13
+T_hard_alibi,4000,384,6,83.33,99.17
