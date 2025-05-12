@@ -3,7 +3,7 @@
 This repository contains the replication of two key experiments from the paper:
 
 **"Repeat After Me: Transformers are Better than State Space Models at Copying"**  
-[arXiv link](https://arxiv.org/abs/2306.11695)
+[arXiv link](https://arxiv.org/abs/2402.01032)
 
 ---
 
