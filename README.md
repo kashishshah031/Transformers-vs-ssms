@@ -7,13 +7,13 @@ This repository contains the replication of two key experiments from the paper:
 
 ---
 
-## 🧪 Tasks Replicated
+## Tasks Replicated
 
-### 1️⃣ Synthetic Copying Task
+### 1️. Synthetic Copying Task
 
 We compare the performance of **Hard-ALiBi Transformers** and **Mamba** on a synthetic string copying task, as described in the paper.
 
-#### 🔧 How to Run
+####  How to Run
 
 Navigate to the synthetic experiment directory:
 
@@ -43,7 +43,7 @@ char_accuracy_vs_train_steps.png
 
 We evaluate **Mamba and Pythia (a Transformer)** on the **SQuAD v2 dataset** to compare their performance on real-world question answering.
 
-#### 🔧 How to Run
+####  How to Run
 
 Navigate to the pretrained QA experiment directory:
 
